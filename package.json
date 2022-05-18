@@ -1,0 +1,28 @@
+{
+  "name": "express_api",
+  "version": "1.0.0",
+  "description": "practica 7 express_API - LaunchX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josefl19/express_api.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express",
+    "api"
+  ],
+  "author": "josefl19",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josefl19/express_api/issues"
+  },
+  "homepage": "https://github.com/josefl19/express_api#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
